@@ -67,14 +67,19 @@ nav ul li a {
   cursor: pointer;
 }
 .skills {
+  flex-wrap: wrap;
   margin-top: 10px;
   background: #ffe4e9;
+  
 }
 .skills-header {
   font-size: 50px;
   color: black;
   line-height: 110px;
   text-align: center;
+}
+.card{
+  margin: 20px 10px;
 }
 .row {
   margin-left: 5%;
@@ -197,11 +202,42 @@ transition: all .4s;
   }
   .header-text {
     margin-top: 100px;
-    max-width: 350px;
+  }
+  h1{
+    font-size: 25px;
+  }
+  .skills{
+   margin: auto;
+  }
+  .skills-header {
+   
+    text-align: center;
   }
   #menu {
     width: 40px;
     right: 50px;
   }
+  .social-icons img {
+    width: 14px;
+    margin: 15px auto;
+  }
+  .footer-content{
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+  .full-content{
+    background-color:#ffe4e9;
+    background-size: cover;
+    background-position: center;
+}
+.row {
+  margin-left: auto;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.card{
+  margin: auto;
+  justify-content: center;
+}
  
 }
