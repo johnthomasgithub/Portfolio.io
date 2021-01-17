@@ -7,8 +7,8 @@ Show off your peacock feathers as you begin to spread your wings and take flight
     * Prerequisites
     * Overview
     * Specs
-         *Take Away
-         *Work Flow
+    * Take Away
+    * Work Flow
 Type of App
 Intro to CSS
 Padding
