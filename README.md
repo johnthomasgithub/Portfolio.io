@@ -4,9 +4,9 @@ Show off your peacock feathers as you begin to spread your wings and take flight
 
 ### Table of Contents ###
   * Your Portfolio Page
-       *Prerequisites
-         *Overview
-         *Specs
+    * Prerequisites
+    * Overview
+    * Specs
          *Take Away
          *Work Flow
 Type of App
