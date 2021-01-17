@@ -3,8 +3,7 @@
 Show off your peacock feathers as you begin to spread your wings and take flight into the world software development. Okay, peacocks can't fly, but you get the point - your portfolio will give you a place to work and show off your coding projects!
 
 ### Table of Contents ###
-
-     * Your Portfolio Page
+  * Your Portfolio Page
        *Prerequisites
          *Overview
          *Specs
