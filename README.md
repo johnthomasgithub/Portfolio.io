@@ -6,10 +6,10 @@ Show off your peacock feathers as you begin to spread your wings and take flight
   * Your Portfolio Page
     * Prerequisites
     * Overview
-    * Specs
-    * Take Away
-    * Work Flow
-Type of App
+     * Specs
+     * Take Away
+     * Work Flow
+     * Type of App
 Intro to CSS
 Padding
 Margins
