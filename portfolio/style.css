@@ -67,6 +67,7 @@ nav ul li a {
   cursor: pointer;
 }
 .skills {
+  margin-right: 0%;
   flex-wrap: wrap;
   margin-top: 10px;
   background: #ffe4e9;
@@ -119,7 +120,7 @@ nav ul li a {
 .full-content{
     background-color:#ffe4e9;
     background-size: cover;
-    background-position: center;
+    background-position: absolute;
 }
 .full-content .head{
     text-align: center;
@@ -198,7 +199,7 @@ transition: all .4s;
   }
   .container {
     margin-left: 50px;
-    margin-right: 50px;
+    margin-right: 0px;
   }
   .header-text {
     margin-top: 100px;
@@ -207,7 +208,7 @@ transition: all .4s;
     font-size: 25px;
   }
   .skills{
-   margin: auto;
+   margin-right: 0;
   }
   .skills-header {
    
@@ -215,14 +216,15 @@ transition: all .4s;
   }
   #menu {
     width: 40px;
-    right: 50px;
+    right: 20px;
   }
   .social-icons img {
     width: 14px;
     margin: 15px auto;
   }
   .footer-content{
-    margin-left: 50px;
+    align-items: center;
+    margin-left: 0px;
     margin-right: 50px;
   }
   .full-content{
@@ -239,5 +241,6 @@ transition: all .4s;
   margin: auto;
   justify-content: center;
 }
+
  
 }
